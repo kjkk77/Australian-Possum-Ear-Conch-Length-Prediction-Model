@@ -8,4 +8,4 @@ of a particular pair of possum species native to southeastern Australia.
             Original Source:\
             John H. Maindonald and W. John Braun (2020). DAAG: Data Analysis and\
               Graphics Data and Functions. R package version 1.24.\
-              https://CRAN.R-project.org/package=DAAG\
+              https://CRAN.R-project.org/package=DAAG
